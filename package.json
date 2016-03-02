@@ -1,0 +1,26 @@
+{
+  "name": "octocard.github.io",
+  "version": "1.0.0",
+  "description": "Octocard: An OpenSource tool for OpenSource Fanatics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Octocard/octocard.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Octocard/octocard.github.io/issues"
+  },
+  "homepage": "https://github.com/Octocard/octocard.github.io#readme",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-animate": "^1.5.0",
+    "angular-aria": "^1.5.0",
+    "angular-material": "^1.0.6",
+    "angular-messages": "^1.5.0"
+  }
+}
