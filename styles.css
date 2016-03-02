@@ -1,0 +1,31 @@
+body {
+  background: lightgray;
+  margin: 0;
+  padding: 0;
+}
+header {
+  margin: 0 auto;
+  width: 60%;
+  padding: 2%;
+}
+
+header md-card {
+  margin-top: 0;
+}
+
+#main md-card {
+  margin: 2% auto 0;
+  width: 75%;
+  line-height: 4ex;
+  font-size: 2ex;
+}
+
+#main .github {
+  width: 30%;
+  display: inline-block;
+  text-align: center;
+}
+
+#main .github.first {
+  margin-left: 20%;
+}
